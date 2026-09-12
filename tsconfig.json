@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./lib/api-client-react"
+    },
+    {
+      "path": "./artifacts/stormline"
+    }
+  ]
+}

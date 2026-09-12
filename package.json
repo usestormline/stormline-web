@@ -1,0 +1,13 @@
+{
+  "name": "usestormline-web-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.26.1",
+  "scripts": {
+    "typecheck": "tsc --build && pnpm --filter @usestormline/web typecheck",
+    "build": "pnpm --filter @usestormline/web build"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  }
+}
