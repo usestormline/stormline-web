@@ -77,7 +77,7 @@
     "viem": "2.56.3",
     "vite": "catalog:",
     "wagmi": "3.7.7",
-    "wouter": "^3.3.5",
+    "wouter": "^3.13.0",
     "zod": "catalog:"
   },
   "description": "Stormline political, geopolitical and macro intelligence interface for DeFi and Stock Tokens",
